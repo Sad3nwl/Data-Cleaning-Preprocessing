@@ -41,5 +41,5 @@ The analysis processes `happines2015.csv` containing 158 non-null records with f
 Ensure you have the required data manipulation and visualization packages installed:
 ```bash
 pip install pandas matplotlib seaborn
-## Author
-**sadeen abdelalrahman**
+### MADE by :
+sadeen abdelalrahman
